@@ -10,7 +10,7 @@ This is a dynamic, visually appealing profile that showcases my skills and exper
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ArcDatario&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -60,12 +60,12 @@ I'm **Arc Datario**, a **seasoned software engineer** with over **8+ years** of 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArcDatario&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArcDatario&theme=radical&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b4d8" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcDatario&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b4d8" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -74,9 +74,9 @@ I'm **Arc Datario**, a **seasoned software engineer** with over **8+ years** of 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**AI-Powered Dashboard**](https://github.com/yourusername/ai-dashboard) | Real-time analytics dashboard using ML predictions. | React, D3, FastAPI, TensorFlow |
-| [**Cloud Cost Optimizer**](https://github.com/yourusername/cloud-cost-optimizer) | Automated tool to reduce AWS spend by up to 30%. | Python, AWS Lambda, Terraform |
-| [**DevOps Pipeline Kit**](https://github.com/yourusername/devops-pipeline-kit) | Reusable CI/CD pipelines for microservices. | GitHub Actions, Helm, Kubernetes |
+| [**AI-Powered Dashboard**](https://github.com/ArcDatario/ai-dashboard) | Real-time analytics dashboard using ML predictions. | React, D3, FastAPI, TensorFlow |
+| [**Cloud Cost Optimizer**](https://github.com/ArcDatario/cloud-cost-optimizer) | Automated tool to reduce AWS spend by up to 30%. | Python, AWS Lambda, Terraform |
+| [**DevOps Pipeline Kit**](https://github.com/ArcDatario/devops-pipeline-kit) | Reusable CI/CD pipelines for microservices. | GitHub Actions, Helm, Kubernetes |
 
 ---
 
